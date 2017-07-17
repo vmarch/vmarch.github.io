@@ -140,7 +140,7 @@ jQuery(document).ready(function(){
 	
 	$content.bind('easytabs:after', function(evt,tab,panel) {
 		if ( tab.hasClass($tabContactClass) ) {
-			$map.gMap({Kyiv, Ukraine
+			$map.gMap({
 				address: $address,
 				zoom: 14,
 				markers: [
