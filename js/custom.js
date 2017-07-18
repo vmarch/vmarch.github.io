@@ -136,7 +136,7 @@ jQuery(document).ready(function(){
 	// Needed variables
 	var $map 				= $('#map'),
 		$tabContactClass 	= ('tab-contact'),
-		$address 			= 'Kyiv, Ukraine';
+		$address 			= 'Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia';
 	
 	$content.bind('easytabs:after', function(evt,tab,panel) {
 		if ( tab.hasClass($tabContactClass) ) {
