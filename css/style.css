@@ -126,6 +126,18 @@
 		height:30px;
 		background:#222 url('../images/social_googleplus.png') no-repeat 4px 3px;
 	}
+	.social-linkedin {
+		float:left;
+		width:30px;
+		height:30px;
+		background:#222 url('../images/social_linkedin.png') no-repeat 5px 5px;
+	}
+	.social-stackoverflow {
+		float:left;
+		width:30px;
+		height:30px;
+		background:#222 url('../images/social_stackoverflow.png') no-repeat 5px 5px;
+	}
 	.social-facebook:hover {
 		background-color:#3b5998;
 	}
@@ -138,6 +150,12 @@
 	.social-mail:hover {
 		background-color:#f6c500;
 	}
+	.social-linkedin:hover {
+		background-color:#22b1e5;
+	}
+	.social-stackoverflow:hover {
+    		background-color:#3b5998;
+    	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
 	/*-------------------------------------------------------*/
