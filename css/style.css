@@ -132,6 +132,12 @@
 		height:30px;
 		background:#222 url('../images/social_linkedin.png') no-repeat 5px 5px;
 	}
+	.social-github {
+		float:left;
+		width:30px;
+		height:30px;
+		background:#222 url('../images/social_githubwhite.png') no-repeat 5px 5px;
+	}
 	.social-stackoverflow {
 		float:left;
 		width:30px;
@@ -152,6 +158,9 @@
 	}
 	.social-linkedin:hover {
 		background-color:#22b1e5;
+	}
+	.social-github:hover {
+		background:#222 url('../images/social_githubblack.png') no-repeat 5px 5px;
 	}
 	.social-stackoverflow:hover {
     		background-color:#3b5998;
