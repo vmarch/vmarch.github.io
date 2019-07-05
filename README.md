@@ -1,4 +1,4 @@
-My name Volodymyr and there is my CV-site.  
+My name Volodymyr and here is my CV-site.  
 
 It was created for showing my skills, projects, work experience.
 
