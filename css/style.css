@@ -120,12 +120,6 @@
 		height:30px;
 		background:#222 url('../images/social_twitter.png') no-repeat 5px 5px;
 	}
-	.social-googleplus {
-		float:left;
-		width:30px;
-		height:30px;
-		background:#222 url('../images/social_googleplus.png') no-repeat 4px 3px;
-	}
 	.social-linkedin {
 		float:left;
 		width:30px;
@@ -149,9 +143,6 @@
 	}
 	.social-twitter:hover {
 		background-color:#22b1e5;
-	}
-	.social-googleplus:hover {
-		background-color:#d94a38;
 	}
 	.social-mail:hover {
 		background-color:#f6c500;
@@ -316,7 +307,7 @@
 	}
 	/* Timeline Section */
 	.timeline-section {
-		width:460px;
+		width:400px;
 		padding-right:60px;
 	}
 	.timeline {
@@ -706,11 +697,11 @@
 		/* Resume */
 	/*-------------------------------------------------------*/
 	.timeline-section {
-		width:380px;
+		width:340px;
 		padding-right:30px;
 	}
 	.skills-section {
-		width:300px;
+		width:340px;
 	}
 	/*-------------------------------------------------------*/
 		/* Portfolio */
